@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-10-19T18:48:51.086Z",
+  "openapiTitle": "Users & Profile API",
+  "openapiVersion": "1.0.0",
+  "openapiSha": "4abeab2a9eff1a397dbacddc019ebfc7222f67a9",
+  "stats": {
+    "preservedFields": 0,
+    "addedFields": 7,
+    "updatedFields": 0
+  },
+  "endpointCount": 2,
+  "mockCount": 7
+}

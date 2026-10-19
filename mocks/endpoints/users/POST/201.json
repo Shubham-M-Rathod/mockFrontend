@@ -1,0 +1,26 @@
+{
+  "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "email": "jane.doe@example.com",
+  "role": "editor",
+  "isActive": true,
+  "address": {
+    "street": "123 Market St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postalCode": "94103",
+    "country": "United States"
+  },
+  "tags": [
+    {
+      "key": "department",
+      "value": "engineering"
+    },
+    {
+      "key": "department",
+      "value": "engineering"
+    }
+  ],
+  "createdAt": "2026-10-19T10:00:00Z"
+}
